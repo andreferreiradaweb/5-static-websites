@@ -63,7 +63,7 @@ Links:
  
 <br/>
 <br/>
-<h3>3º - Photographer Website</h3>
+<h3>4º - Photographer Website</h3>
 
 <img width="100%" src="https://i.imgur.com/fcT2UqB.png" alt="Company Model">
 
@@ -93,7 +93,7 @@ Links:
   
 <br/>
 <br/>
-<h3>3º - Photographer Website</h3>
+<h3>5º - Planalto color</h3>
 
 <img width="100%" src="https://i.imgur.com/hzcIg7a.png" alt="Company Model">
 
