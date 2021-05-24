@@ -1,29 +1,24 @@
-# 5 static projects
-
 <h2>5 static projects built using only pure html, css e javascript</h2>
-<p>This is a portifolio repositorie to share my skills using html, css and javascript to build websites.</p>
-<p>I am using my own framework "default-css" to build some os these websites.</p>
 
-<img width="100%" src="https://i.imgur.com/q2tuoJE.png" alt="Default-css - A simple responsive framework">
+This is a portifolio repositorie to share my skills using html, css and javascript to build websites.
+I am using my own framework "default-css" to build some os these websites.
+<br/>
+<br/>
+<h3>Via Musical</h3>
 
-**Via Musical**
+<img width="100%" src="https://i.imgur.com/cN0v29X.png" alt="Via Musical - Website">
 
-This website adasdasdasdad
+This is a redesign for a an online School of Music.
 
-Features:
- - html
- - css
- - javascript 
+Stack:
+  - html
+  - sass
+  - javascript
+  - Jquery 
 
-Features:
- - html
- - css
- - javascript 
-
- Links:
+Links:
   - Repositórie: <a href="https://github.com/via-musical" target="_blank">https://github.com/via-musical</a>
   - Visit Website: <a href="https://via-musical.netlify.app" target="_blank">https://via-musical.netlify.app</a>
 
-**Personal Website**
 
 
